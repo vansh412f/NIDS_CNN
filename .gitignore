@@ -1,0 +1,12 @@
+# Datasets
+*.csv
+*.parquet
+data/
+shrinked/
+catboost_info/
+
+# Virtual Environments
+.venv/
+env/
+__pycache__/
+
